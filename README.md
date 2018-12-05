@@ -84,9 +84,10 @@ Terrain or relief (also topographical relief) involves the vertical and horizont
 Terrain is important in determining weather patterns. Two areas geographically close to each other may differ radically in precipitation levels or timing because of elevation differences or a "rain shadow" effect.
 Precise knowledge of terrain is vital in aviation, especially for low-flying routes and maneuvers (see terrain collision avoidance) and airport altitudes. Terrain will also affect range and performance of radars and terrestrial radio navigation systems. Furthermore, a hilly or mountainous terrain can strongly impact the implementation of a new aerodrome and the orientation of its runways.[5]
 
-![image](https://user-images.githubusercontent.com/42518567/49484661-da205880-f85d-11e8-8beb-38c99fbb3a4b.png)
+
 ## PROBLEM DEFINITION
-![image](https://user-images.githubusercontent.com/42518567/49521755-21453280-f8cc-11e8-9e6d-e4ad327e3ecf.png)
+![image](https://user-images.githubusercontent.com/42518567/49522541-e80dc200-f8cd-11e8-9009-c083f136064f.png)
+
 ## USE CASE DIAGRAM
 
 ## FUNCTIONAL STRUCTURE
