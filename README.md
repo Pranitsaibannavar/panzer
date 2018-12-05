@@ -85,6 +85,18 @@ Terrain is important in determining weather patterns. Two areas geographically c
 Precise knowledge of terrain is vital in aviation, especially for low-flying routes and maneuvers (see terrain collision avoidance) and airport altitudes. Terrain will also affect range and performance of radars and terrestrial radio navigation systems. Furthermore, a hilly or mountainous terrain can strongly impact the implementation of a new aerodrome and the orientation of its runways.[5]
 
 ![image](https://user-images.githubusercontent.com/42518567/49484661-da205880-f85d-11e8-8beb-38c99fbb3a4b.png)
+## PROBLEM DEFINITION
+![image](https://user-images.githubusercontent.com/42518567/49521755-21453280-f8cc-11e8-9e6d-e4ad327e3ecf.png)
+## USE CASE DIAGRAM
+
+## FUNCTIONAL STRUCTURE
+## BLACK BOX REPRESENTATION
+## GLASS BOX REPRESENTATION
+## MORPHOLOGICAL CHART
+### CONCEPT 1
+### CONCEPT 2
+### CONCEPT 3
+### CONCEPT 4
 
 
 ## BILL OF MATERIALS
