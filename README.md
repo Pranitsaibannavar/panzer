@@ -86,9 +86,7 @@ Precise knowledge of terrain is vital in aviation, especially for low-flying rou
 
 ![image](https://user-images.githubusercontent.com/42518567/49484661-da205880-f85d-11e8-8beb-38c99fbb3a4b.png)
 
-
-
-
+ 
 .  
 ##REFERENCES AND LINKS
 	
