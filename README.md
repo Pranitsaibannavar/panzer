@@ -77,6 +77,8 @@ Guided missiles have a number of different system components:
 3.	The Multi-Missile Launcher is capable of firing both short-range missiles and long-range missiles, including any special munitions designed for them, as well as use the Artemis IV fire control system. Originally designed by members of the Battle Magic mercenary unit in 3067, the MML helps simplify logistical needs of cash-strapped mercenaries, while simultaneously allowing them to take maximum advantage of special munitions.[4]
 4.	The Multi-Missile Launcher (MML) is a state of the  art rail launcher  capable  of carring a range  of  different  missiles  with  out the  need for role change. Auniquemodular construction allows the MML to interface with short, medium and beyond visual range missiles. A B O L counter measures dispensing system may be carried for additional operational flexibility.[4]
 
+ ![image](https://user-images.githubusercontent.com/42518567/49484560-7d24a280-f85d-11e8-9910-bafe464b0401.png)
+
 ## TERRAIN
 Terrain or relief (also topographical relief) involves the vertical and horizontal dimensions of land surface. Terrain is militarily critical because it determines the ability of armed forces to take and hold areas, and move troops and material into and through areas. An understanding of terrain is basic to both defensive and offensive strategy.
 Terrain is important in determining weather patterns. Two areas geographically close to each other may differ radically in precipitation levels or timing because of elevation differences or a "rain shadow" effect.
