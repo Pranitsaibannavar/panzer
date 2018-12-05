@@ -95,13 +95,40 @@ Precise knowledge of terrain is vital in aviation, especially for low-flying rou
 ![image](https://user-images.githubusercontent.com/42518567/49523295-79c9ff00-f8cf-11e8-95b0-b523274bf295.png)
 ## GLASS BOX REPRESENTATION
 ![image](https://user-images.githubusercontent.com/42518567/49523397-b564c900-f8cf-11e8-930c-ac3ec088f324.png)
-
-
 ## MORPHOLOGICAL CHART
+![image](https://user-images.githubusercontent.com/42518567/49523520-fe1c8200-f8cf-11e8-92fc-a642e89bc189.png)
 ### CONCEPT 1
+Functions | Means selected
+--------- | --------------
+1 | Legs.
+2 | IR Transmitter and Receiver.
+3 | Wheel rotating.
+4 | Adjusting launching tube
+
 ### CONCEPT 2
+Functions | Means selected
+--------- | --------------
+1 | DC motor (wheels).
+2 | Bluetooth.
+3 | Rack and Pinion.
+4 | Adjusting launcher base.
+
 ### CONCEPT 3
+Functions | Means selected
+--------- | --------------
+1 | Belt drive.
+2 | RF Module
+3 | Explosion.
+4 | Adjusting both launcher tube and base.
+
 ### CONCEPT 4
+Functions | Means selected
+--------- | --------------
+1 | Bottom spinning wheel.
+2 | Wi-Fi.
+3 | Compressed air.
+4 | Height inclination of tank.
+
 
 
 ## BILL OF MATERIALS
