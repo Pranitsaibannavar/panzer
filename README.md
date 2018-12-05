@@ -86,8 +86,29 @@ Precise knowledge of terrain is vital in aviation, especially for low-flying rou
 
 ![image](https://user-images.githubusercontent.com/42518567/49484661-da205880-f85d-11e8-8beb-38c99fbb3a4b.png)
 
- 
-.  
+
+## BILL OF MATERIALS
+ SL.NO | PRODUCT NAME | SPECIFICATIONS | QUANTITY
+ ----- | ------------ | -------------- | ---------
+ 1 | Arduino | UNO | 1
+ 2 | Relay | 2-channel | 4
+ 3 | DC Motor | 60 rpm&3.5 rpm | 3 &1(respectively)
+4 | Jumper wires | M-M & M-F | --
+5 | Acrylic sheet| 4mm &3mm | --
+6 | L- clamps | ½ inch | 15
+7 | Nut & Bolts | 3 mm | 30
+8 | Battery | 12 volt | 1
+9 | Wheels | Rubber wheels | 4
+10 | Bluetooth | HC-05 | 1
+11 | Rack & Pinion | -- | 1
+12 | Slider | -- | 1
+13 | PVC pipe | -- | 1
+14 | Breadboard | -- | 1
+15 | Chassis Aluminium | 1
+
+
+		
+
 ##REFERENCES AND LINKS
 	
  [1] https://www.engineersgarage.com/articles/military-robotics
