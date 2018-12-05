@@ -105,6 +105,10 @@ Functions | Means selected
 3 | Wheel rotating.
 4 | Adjusting launching tube
 
+![image](https://user-images.githubusercontent.com/42518567/49524458-cc0c1f80-f8d1-11e8-9358-7dfeebf01d20.png)
+
+
+
 ### CONCEPT 2
 Functions | Means selected
 --------- | --------------
@@ -112,6 +116,9 @@ Functions | Means selected
 2 | Bluetooth.
 3 | Rack and Pinion.
 4 | Adjusting launcher base.
+
+![image](https://user-images.githubusercontent.com/42518567/49524481-d8907800-f8d1-11e8-954f-e7d48ee1ede6.png)
+
 
 ### CONCEPT 3
 Functions | Means selected
@@ -121,6 +128,9 @@ Functions | Means selected
 3 | Explosion.
 4 | Adjusting both launcher tube and base.
 
+![image](https://user-images.githubusercontent.com/42518567/49524497-dd552c00-f8d1-11e8-97e0-919649215ce7.png)
+
+
 ### CONCEPT 4
 Functions | Means selected
 --------- | --------------
@@ -128,6 +138,8 @@ Functions | Means selected
 2 | Wi-Fi.
 3 | Compressed air.
 4 | Height inclination of tank.
+
+![image](https://user-images.githubusercontent.com/42518567/49524509-e3e3a380-f8d1-11e8-9331-10f6a3e6318f.png)
 
 
 
