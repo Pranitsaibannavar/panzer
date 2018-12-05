@@ -86,6 +86,8 @@ Precise knowledge of terrain is vital in aviation, especially for low-flying rou
 
 
 ## PROBLEM DEFINITION
+![image](https://user-images.githubusercontent.com/42518567/49525318-82bccf80-f8d3-11e8-96cd-6fb9e41602a5.png)
+
 
 ## USE CASE DIAGRAM
 ![image](https://user-images.githubusercontent.com/42518567/49522927-b77a5800-f8ce-11e8-9f25-53f469d10107.png)
@@ -142,6 +144,8 @@ Functions | Means selected
 
 ![image](https://user-images.githubusercontent.com/42518567/49524509-e3e3a380-f8d1-11e8-9331-10f6a3e6318f.png)
 
+## Functional Structure
+## CLUSTERING
 
 
 ## BILL OF MATERIALS
@@ -166,7 +170,7 @@ Functions | Means selected
 
 		
 
-##REFERENCES AND LINKS
+## REFERENCES AND LINKS
 	
  [1] https://www.engineersgarage.com/articles/military-robotics
  [2] https://patents.google.com/patent/US4128041 
