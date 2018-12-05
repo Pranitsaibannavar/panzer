@@ -89,10 +89,13 @@ Precise knowledge of terrain is vital in aviation, especially for low-flying rou
 ![image](https://user-images.githubusercontent.com/42518567/49522541-e80dc200-f8cd-11e8-9009-c083f136064f.png)
 
 ## USE CASE DIAGRAM
-![image](https://user-images.githubusercontent.com/42518567/49522433-ab41cb00-f8cd-11e8-9163-a37a9998a749.png)
+![image](https://user-images.githubusercontent.com/42518567/49522927-b77a5800-f8ce-11e8-9f25-53f469d10107.png)
 ## FUNCTIONAL STRUCTURE
 ## BLACK BOX REPRESENTATION
-![image](https://user-images.githubusercontent.com/42518567/49522466-c0b6f500-f8cd-11e8-8a5a-2d7318f4f295.png)
+![image](https://user-images.githubusercontent.com/42518567/49522974-cbbe5500-f8ce-11e8-9864-7d50abb466fe.png)
+
+
+
 
 
 ## GLASS BOX REPRESENTATION
