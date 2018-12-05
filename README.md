@@ -1,4 +1,4 @@
-# panzer
+# PANZER-4
 # NEED STSTEMENT
 #### Indian army is looking forward for an autonomous missile launching tanker. The tanker should be all terrain movable, remote controlled and is supposed to launch at least 4 missiles continuously
 
@@ -18,15 +18,17 @@ The vision of robot army isn’t a present day concept. The introduction of mili
 
 UGVs i.e. Unmanned Ground Vehicle are those which attack from ground. They have various sensors, cameras, arms mounted on them. Robots like packbots are so compact, light and robust that army can carry them on their back. Controlled by a Pentium processor that has been designed specially to withstand rough treatment, Packbot's chassis has a GPS system, an electronic compass and temperature sensors built in. Packbot manufacturer iRobot says Packbot can move more than 8 mph (13 kph), can be deployed in minutes and can withstand a 6-foot (1.8-meter) drop on concrete -- the equivalent of 400 g's of force. Its design alows it to flip also. 
 equivalent of 400 g's of force. Its design alows it to flip also. [1]
+![PACKBOT](https://www.engineersgarage.com/sites/default/files/wysiwyg_imageupload/1/Military-Robotics-3.jpg)
  
  
  
 
-## Talon robot
+### Talon robot
 
 The other most popular robot is TALON. It is manufactured by Foster Miller. The TALON is a man-portable robot operating on small treads. It weighs less than 100 lbs (45 kg) in its base configuration. TALON is operated with a joystick control, has seven speed settings (top speed is 6 feet/1.8 meters per second) and can use its treads to climb stairs, maneuver through rubble and even take on snow.
 
 Versatility has been designed into the TALON as well, with multiple possible configurations available that adapt the robot to the situation at hand. The basic TALON includes audio and video listening devices and a mechanical arm. A lightweight (60-lb/27-kg) version omits the arm. TALONs were used for search and rescue at WTC Ground Zero, and they have been used in Bosnia, Afghanistan and Iraq for the disposal of live grenades, improvised explosive devices and other dangerous explosives.[1]
+# ![TALON ROBOT](https://www.engineersgarage.com/sites/default/files/wysiwyg_imageupload/1/Military-Robotics-4.jpg)
 
 
 ## Missiles
@@ -79,6 +81,9 @@ Guided missiles have a number of different system components:
 Terrain or relief (also topographical relief) involves the vertical and horizontal dimensions of land surface. Terrain is militarily critical because it determines the ability of armed forces to take and hold areas, and move troops and material into and through areas. An understanding of terrain is basic to both defensive and offensive strategy.
 Terrain is important in determining weather patterns. Two areas geographically close to each other may differ radically in precipitation levels or timing because of elevation differences or a "rain shadow" effect.
 Precise knowledge of terrain is vital in aviation, especially for low-flying routes and maneuvers (see terrain collision avoidance) and airport altitudes. Terrain will also affect range and performance of radars and terrestrial radio navigation systems. Furthermore, a hilly or mountainous terrain can strongly impact the implementation of a new aerodrome and the orientation of its runways.[5]
+
+
+
 
 .  
 ##REFERENCES AND LINKS
