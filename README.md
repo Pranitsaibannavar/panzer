@@ -93,9 +93,10 @@ Precise knowledge of terrain is vital in aviation, especially for low-flying rou
 ## FUNCTIONAL STRUCTURE
 ## BLACK BOX REPRESENTATION
 ![image](https://user-images.githubusercontent.com/42518567/49523295-79c9ff00-f8cf-11e8-95b0-b523274bf295.png)
-
-
 ## GLASS BOX REPRESENTATION
+![image](https://user-images.githubusercontent.com/42518567/49523397-b564c900-f8cf-11e8-930c-ac3ec088f324.png)
+
+
 ## MORPHOLOGICAL CHART
 ### CONCEPT 1
 ### CONCEPT 2
