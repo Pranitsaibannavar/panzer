@@ -145,8 +145,10 @@ Functions | Means selected
 ![image](https://user-images.githubusercontent.com/42518567/49524509-e3e3a380-f8d1-11e8-9331-10f6a3e6318f.png)
 
 ## Functional Structure
-## CLUSTERING
+![image](https://user-images.githubusercontent.com/42518567/49525591-17273200-f8d4-11e8-876e-893be0c94147.png)
 
+## CLUSTERING
+![image](https://user-images.githubusercontent.com/42518567/49525690-4fc70b80-f8d4-11e8-88f6-ebb02d1e8918.png)
 
 ## BILL OF MATERIALS
  SL.NO | PRODUCT NAME | SPECIFICATIONS | QUANTITY
