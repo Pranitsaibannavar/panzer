@@ -90,7 +90,7 @@ Precise knowledge of terrain is vital in aviation, especially for low-flying rou
 
 
 ## USE CASE DIAGRAM
-![image](https://user-images.githubusercontent.com/42518567/49522927-b77a5800-f8ce-11e8-9f25-53f469d10107.png)
+
 ## FUNCTIONAL STRUCTURE
 ![image](https://user-images.githubusercontent.com/42518567/49525238-51440400-f8d3-11e8-896d-a515747ff5b3.png)
 
