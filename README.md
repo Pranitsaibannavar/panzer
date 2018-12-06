@@ -97,6 +97,8 @@ Precise knowledge of terrain is vital in aviation, especially for low-flying rou
 ## BLACK BOX REPRESENTATION
 ![image](https://user-images.githubusercontent.com/42518567/49523295-79c9ff00-f8cf-11e8-95b0-b523274bf295.png)
 ## GLASS BOX REPRESENTATION
+![image](https://user-images.githubusercontent.com/42518567/49553937-0ef4e400-f920-11e8-8d6d-48ad31441386.png)
+
 
 ## MORPHOLOGICAL CHART
 ![image](https://user-images.githubusercontent.com/42518567/49523520-fe1c8200-f8cf-11e8-92fc-a642e89bc189.png)
@@ -149,6 +151,9 @@ Functions | Means selected
 
 ## CLUSTERING
 ![image](https://user-images.githubusercontent.com/42518567/49525690-4fc70b80-f8d4-11e8-88f6-ebb02d1e8918.png)
+
+## CIRCUIT DIAGRAM
+![new doc 2018-12-06 06 14 33_1](https://user-images.githubusercontent.com/42518567/49553959-1c11d300-f920-11e8-8bb0-0a796157f308.jpg)
 
 ## BILL OF MATERIALS
  SL.NO | PRODUCT NAME | SPECIFICATIONS | QUANTITY
