@@ -1,7 +1,9 @@
 # PANZER-4
 # NEED STATEMENT
 #### Indian army is looking forward for an autonomous missile launching tanker. The tanker should be all terrain movable, remote controlled and is supposed to launch at least 4 missiles continuously
-
+## ABSTRACT
+   we have designed a tank which is wireless ,so it helps us to control wirelessly which can save many lives during war,so that many lives are saved.
+   the two main functions of a battle tank are to mave in all terain and intersept the target and shoot it.In this tank we are controlling the tank using bluetooth which is controlled using MIT app.We have used a rack and pinion using cam mechanism.When the rack is pulled by motor and when the dead end of cam touches the base the motor lifts up and rack is completely free and due to retarding force the rack shoots the ball
 
 
 
@@ -151,6 +153,17 @@ Functions | Means selected
 
 ## CLUSTERING
 ![image](https://user-images.githubusercontent.com/42518567/49525690-4fc70b80-f8d4-11e8-88f6-ebb02d1e8918.png)
+## SPRINT 1
+![img_20181206_120326](https://user-images.githubusercontent.com/42518567/49573135-4afd6880-f963-11e8-8b92-7ca120f0c320.jpg)
+![image](https://user-images.githubusercontent.com/42518567/49572869-b2ff7f00-f962-11e8-9885-87a5212bd4a1.png)
+![image](https://user-images.githubusercontent.com/42518567/49572982-ef32df80-f962-11e8-8a9b-d92f30649f87.png)
+![image](https://user-images.githubusercontent.com/42518567/49573024-070a6380-f963-11e8-8d13-f6ce9545fe31.png)
+
+
+
+## SPRINT 2
+![image](https://user-images.githubusercontent.com/42518567/49573109-3caf4c80-f963-11e8-82c7-0e913cc81ab7.png)
+
 
 ## CIRCUIT DIAGRAM
 ![new doc 2018-12-06 06 14 33_1](https://user-images.githubusercontent.com/42518567/49553959-1c11d300-f920-11e8-8bb0-0a796157f308.jpg)
