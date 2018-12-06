@@ -172,7 +172,7 @@ Functions | Means selected
 12 | Slider | -- | 1
 13 | PVC pipe | -- | 1
 14 | Breadboard | -- | 1
-15 | Chassis Aluminium | 1
+15 | Chassis | Aluminium | 1
 
 
 		
